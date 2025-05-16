@@ -1,0 +1,10 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "node ./check-yarn-version.js && node ./index.js"
+  },
+  "dependencies": {
+    "fake-malicious-package": "1.0.0"
+  }
+}

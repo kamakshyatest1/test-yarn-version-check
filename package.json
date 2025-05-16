@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "workspaces": ["packages/*"],
+  "name": "malicious-yarn-test",
+  "packageManager": "yarn@3.8.7"
+}
